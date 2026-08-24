@@ -181,6 +181,7 @@ ScamGuard/
 - **Mohd Shaffan** — Lead Developer
 - **Ayush Kumar Agarwal** — AI/ML
 - **Sarika** — Research
+- **Sayantan Ghosh** — Research
 
 **Manipal University Jaipur**
 
