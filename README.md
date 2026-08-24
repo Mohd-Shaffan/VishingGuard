@@ -179,8 +179,8 @@ ScamGuard/
 ## 👥 Team
 
 - **Mohd Shaffan** — Lead Developer
-- **Aditya Anurag Acharya** — AI/ML
-- **Shaqueeb Jamil** — Research
+- **Ayush Kumar Agarwal** — AI/ML
+- **Sarika** — Research
 
 **Manipal University Jaipur**
 
